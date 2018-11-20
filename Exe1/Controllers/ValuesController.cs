@@ -43,6 +43,7 @@ namespace Exe1.Controllers
         }
         /// <summary>
         /// comments for dummy method.
+        /// new comment for dummy method
         /// </summary>
         public void dummyMethod()
         {
