@@ -45,7 +45,7 @@ namespace Exe1.Controllers
         /// comments for dummy method.
         /// new comment for dummy method.
         /// </summary>
-        public void dummyMethod( string message)
+        public void dummyMethod( string message, string message1)
         {
 
         }
