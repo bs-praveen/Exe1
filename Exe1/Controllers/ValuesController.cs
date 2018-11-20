@@ -41,5 +41,10 @@ namespace Exe1.Controllers
         public void Delete(int id)
         {
         }
+
+        public void dummyMethod()
+        {
+
+        }
     }
 }
