@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Exe1.Controllers
 {
     /// <summary>
-    /// included ARM templates folder
+    /// included ARM templates folder. 
     /// </summary>
     [Route("api/[controller]")]
     [ApiController]
